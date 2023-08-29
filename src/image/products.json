@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone 14",
+      "description": "This is iphone 14",
+      "price": 20,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660753617559",
+      "discountPercentage": 50
+    },
+    {
+      "id": 2,
+      "title": "Iphone 14 pro",
+      "description": "This is iphone 14 pro",
+      "price": 20,
+      "thumbnail": "/images/iphone-14-pro.jpg",
+      "discountPercentage": 50
+    },
+    {
+      "id": 3,
+      "title": "Iphone 14 pro max",
+      "description": "This is iphone 14 pro max",
+      "price": 20,
+      "thumbnail": "/images/iphone-14-pro-max.jpg",
+      "discountPercentage": 50
+    }
+  ]
+}

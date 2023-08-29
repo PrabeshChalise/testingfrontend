@@ -10,11 +10,11 @@ const Header = () => {
           <h1 className="logo1">SeroFero</h1>{" "}
           {/* Use "className" instead of "class" for CSS classes */}
           <div className="ahref">
-            <a href="https://serofero.netlify.app/">Home</a>
-            <a href="https://serofero.netlify.app/user">Users</a>
-            <a href="https://serofero.netlify.app/product">Products</a>
-            <a href="https://serofero.netlify.app/worker">Workers</a>
-            <a href="https://serofero.netlify.app/setting">Settings</a>
+            <a href="/">Home</a>
+            <a href="/user">Users</a>
+            <a href="/product">Products</a>
+            <a href="/worker">Workers</a>
+            <a href="/setting">Settings</a>
           </div>
           <input
             type="text"
